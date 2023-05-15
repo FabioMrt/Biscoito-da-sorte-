@@ -9,14 +9,14 @@ Interface simples e intuitiva.
 
 Experiência de usuário agradável.
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 React: uma biblioteca JavaScript para construção de interfaces de usuário.
 
 HTML: a linguagem de marcação para estruturar o aplicativo.
 
 CSS: a linguagem de estilização para tornar o aplicativo visualmente atraente.
 
-### Como Executar o Projeto
+## Como Executar o Projeto
 Certifique-se de ter o Node.js instalado em seu sistema.
 
 Faça o clone deste repositório.
