@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.textoFrase{
+    font-style: italic;
+    color: #dd7b22;
+    text-align: center;
+}
+
+.Button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 800;
+    text-decoration: none;
+    background-color: #dd7b22;
+    color: #6d4815;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .Button:hover {
+    background-color: #e79e0b;
+  }
+  
+  .Button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(252, 163, 17, 0.4);
+  }
